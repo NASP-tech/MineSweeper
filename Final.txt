@@ -1,0 +1,7 @@
+/*Resolucion de Cuarta Evaluación 12/11/2020
+*Análisis de Algoritmos sección 01 ciclo 02-20
+*Autor: Natalia Alexandra Solórzano Paz 00120319
+*Fecha: noviembre 2020
+*/
+
+Logre terminar todos los componentes, por falta de tiempo no logre terminar de forma MineSweeper.
